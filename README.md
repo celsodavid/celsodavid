@@ -1,6 +1,6 @@
 # Celso David Lopes dos Santos Aleixo
 
-[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/celsodavid)](https://github.com/victoramsantos)
+[![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/celsodavid)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celso-david-lopes-dos-santos/)
 
 ## Olá 👋
