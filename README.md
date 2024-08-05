@@ -12,6 +12,7 @@ Desenvolvo sites, sistemas de gestão, crm, designer de apis, rest, restfull etc
 ### Formação
 - Bacharel em Ciência da Computação
 - Bootcamp Desenvolver Python [IGTI](https://www.igti.com.br/custom/desenvolvedor-python/)
+- Pós em Gestão para Tech Leads [CONQUER](https://escolaconquer.com.br/pos-graduacao/lideranca-e-gestao-em-tecnologia)
 
 <!-- ### Certificação
 - [Imasters]() -->
